@@ -6,7 +6,7 @@ namespace DFM
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Wfdgdgorld! 000000");
+            Console.WriteLine("Hello Wfdgdgorld!");
         }
     }
 }
