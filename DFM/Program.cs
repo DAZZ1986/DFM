@@ -7,7 +7,7 @@ namespace DFM
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
-            Console.WriteLine("Hello 0222222222....kkkkkkkkkkkkkkkkkkkkkkkkkkkkk2221!");
+            Console.WriteLine("Hello kkkkkkkkkkkkkkkkkkkkkkkkkkk2221!");
             Console.WriteLine("Hello 02222222222221!");
             Console.WriteLine("Hello 02222222222221!");
             Console.WriteLine("Hello 02222222222221!");
